@@ -1,0 +1,24 @@
+Program 8:
+Execution Stack: 
+v=2
+
+Symbols Table: 
+
+Output: 
+
+FileTable: 
+
+Heap: 
+-------
+Program 8:
+Execution Stack: 
+
+Symbols Table: 
+v = 2
+
+Output: 
+
+FileTable: 
+
+Heap: 
+-------
